@@ -1,0 +1,8 @@
+# Arithmetic Operation on Images
+# Pixel values are directly added / subtarcted for 2 images
+# Subtraction of images
+# Image Resizing
+# Erosion of an image, corners are trimmed in erosion
+# Bluring of an image
+# Bordering an image
+# Reflective Border around an image
